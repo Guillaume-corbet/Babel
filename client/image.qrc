@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ressources/idleIcon.png</file>
+        <file>Ressources/offlineIcon.png</file>
+        <file>Ressources/online.png</file>
+        <file>Ressources/cancel.png</file>
+        <file>Ressources/check.png</file>
+        <file>Ressources/exit.png</file>
+        <file>Ressources/delete.png</file>
+        <file>Ressources/phone-call.png</file>
+        <file>Ressources/accept-call.png</file>
+    </qresource>
+</RCC>
